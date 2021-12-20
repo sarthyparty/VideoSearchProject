@@ -1,0 +1,1352 @@
+1
+00:00:00.359 --> 00:00:01.709
+Jonathan Herke: Five four.
+
+2
+00:00:04.589 --> 00:00:05.069
+Jonathan Herke: cool.
+
+3
+00:00:06.509 --> 00:00:07.379
+Jonathan Herke: All right, well.
+
+4
+00:00:08.639 --> 00:00:19.560
+Jonathan Herke: Thank you all for being here and thanks for having me as a guest at this this this meetup here and yeah I can give you a background about myself, you know how how.
+
+5
+00:00:20.220 --> 00:00:35.340
+Jonathan Herke: My career has landed me to lead a developer relations team at Silicon Valley startup and I work in Minnesota, but I can tell you my journey of how I I now work for one of the hottest startups startups in Silicon Valley.
+
+6
+00:00:36.960 --> 00:00:48.150
+Jonathan Herke: And I can give you my deep background and also how features can be kicked off in the beginning, you know so let's see where I where do I want to get started um.
+
+7
+00:00:50.340 --> 00:00:54.180
+Jonathan Herke: yeah i'll start with my i'll start with my work history so.
+
+8
+00:00:56.340 --> 00:01:07.410
+Jonathan Herke: I I joined the army National Guard before I went to college my my i've always been interested in computers and understand how computers work so when I joined.
+
+9
+00:01:07.920 --> 00:01:17.370
+Jonathan Herke: The military I wanted to graduate debt free was my goal from college, I did I don't want to have any debt when I graduated so that was my primary reason for for joining the military and.
+
+10
+00:01:17.850 --> 00:01:31.620
+Jonathan Herke: get some free education, so I joined the military what I was doing was a computer networking engineer I go out in the middle of nowhere shoot up to a satellite grabbing up link deploy network and programs routers and switches so very network focused.
+
+11
+00:01:33.030 --> 00:01:42.120
+Jonathan Herke: and building up so you'd have like nothing you'd be out in the middle of a cornfield and there's nothing there you bring all your trucks and your tents and whatnot and your computers and.
+
+12
+00:01:42.600 --> 00:01:53.760
+Jonathan Herke: Your networking stacks and you, we have to set up the base of operations and then by the end of US setting this up now you have computers and phones and whatnot.
+
+13
+00:01:54.360 --> 00:02:07.800
+Jonathan Herke: So I got a lot of clearances and I had my secrets cured clans by the Department of Defense and all these networking certifications So when I went through college I tested out of some classes, because they're so boring.
+
+14
+00:02:08.970 --> 00:02:20.310
+Jonathan Herke: And I was never a big fan of school but i'm a very passionate person about learning I love education, I love learning I love being creative.
+
+15
+00:02:21.810 --> 00:02:40.080
+Jonathan Herke: But school was not my favorite thing to be honest and so anyways yeah so I went to I went to mankato State University just because my My family has a lot of history down there, and my grandpa was professor and my parents went there so that's where i'd family nearby.
+
+16
+00:02:41.160 --> 00:02:55.680
+Jonathan Herke: So I went I went there that degree and CS basically with focus on networking security, and you know I had a background in that, and then I, my first job as an intern was working at united health group.
+
+17
+00:02:56.250 --> 00:02:58.500
+Jonathan Herke: I don't know if you've heard of united health group or optum.
+
+18
+00:02:59.250 --> 00:03:10.770
+Jonathan Herke: They have a really cool program it's called the technology development program so we're one of the pioneers to this this new program that they're trying to create now if you go to college anywhere in Minnesota you'll probably have these.
+
+19
+00:03:11.430 --> 00:03:13.530
+Jonathan Herke: Optimum recruiters telling you all about the Program.
+
+20
+00:03:14.730 --> 00:03:20.190
+Jonathan Herke: Which is a rotational program so I got in there as an intern I was a super intern I was.
+
+21
+00:03:21.300 --> 00:03:30.150
+Jonathan Herke: Harry had, I had a higher clearance level than everybody in the $6 billion data centers I can go into any server rooms swap different things out figure different things.
+
+22
+00:03:30.810 --> 00:03:38.700
+Jonathan Herke: And yeah I started doing networking got really bored really fast of doing that work and engineering a big giant company had the opportunity to.
+
+23
+00:03:39.930 --> 00:03:47.970
+Jonathan Herke: join this sort of creative startup incubator inside this giant company called optimum and it was very.
+
+24
+00:03:48.540 --> 00:03:55.560
+Jonathan Herke: Very business model focused I don't know if you know the lean methodology it's a great book if you if you haven't read that before.
+
+25
+00:03:56.310 --> 00:04:03.540
+Jonathan Herke: Running lean talks about how you can create a startup and what steps you need to take so we we follow this methodology.
+
+26
+00:04:03.990 --> 00:04:12.450
+Jonathan Herke: I think a great example of that would be like uber you know cars existed phones existed, it was just reimagining airbnb another great one.
+
+27
+00:04:12.780 --> 00:04:18.450
+Jonathan Herke: it's reimagining the way that the business, you know, using what's out there reimagining the way a business operates.
+
+28
+00:04:18.900 --> 00:04:26.130
+Jonathan Herke: And so we're doing that, from a healthcare perspective, so I was a founder in residence at this this startup incubator.
+
+29
+00:04:26.910 --> 00:04:33.030
+Jonathan Herke: And then, in August 2016 we started seeing emerging technologies really disrupt different industries.
+
+30
+00:04:33.780 --> 00:04:47.910
+Jonathan Herke: And this is everything from Ai technologies natural language trusts machine learning deep learning computer vision, the list of Ai stuff goes on and on how blockchain technologies Internet of Things quantum computing and graph databases.
+
+31
+00:04:49.110 --> 00:05:01.320
+Jonathan Herke: And so, for coming from the networking world I lean heavy into into the into the graph space interconnected data and the more I was in this is where this is where we started to.
+
+32
+00:05:02.460 --> 00:05:10.140
+Jonathan Herke: formulate the futurist academy is I was doing a lot of things where i'd take my education about blockchain or Ai natural language processing.
+
+33
+00:05:11.130 --> 00:05:18.090
+Jonathan Herke: graph databases and I start to go to Community events in different schools, I went to EDEN prairie and that's where I met.
+
+34
+00:05:18.960 --> 00:05:34.170
+Jonathan Herke: There was an ios developer team and that's where I met real hon anyways I was asked to come to the EDEN prairie school and give a talk about blockchain, and so we launched a cryptocurrency live in class on the test net.
+
+35
+00:05:35.460 --> 00:05:43.800
+Jonathan Herke: So we talked about how blockchains work and how cryptocurrency works, but I was doing a lot of these different events, where I was engaging with different.
+
+36
+00:05:45.030 --> 00:05:55.500
+Jonathan Herke: Different students in different meetups and different things, and people kept asking how can we be part of this, how can we be part of something where we're connected Community that is.
+
+37
+00:05:56.670 --> 00:06:04.740
+Jonathan Herke: Constantly learning, and so the reason I wanted to also create futures camp is not only to create that house, but also for the ability.
+
+38
+00:06:05.670 --> 00:06:12.750
+Jonathan Herke: to discover new passions and learn from one another, also I hated school, and so I you know I thought.
+
+39
+00:06:13.200 --> 00:06:18.270
+Jonathan Herke: there's so many opportunities that you can engineer yourself if you just put your mind to it and being.
+
+40
+00:06:18.630 --> 00:06:29.490
+Jonathan Herke: passionate and learning about new things, and you can engineer yourself your own opportunity that you might want to do so if you wanted to work at tesla, how do you get there, if you want to work at the neuro link project, how can you get there.
+
+41
+00:06:30.570 --> 00:06:33.210
+Jonathan Herke: How can you engineer yourself into that kind of position.
+
+42
+00:06:34.530 --> 00:06:48.000
+Jonathan Herke: So anyways that's how a feature set Kevin was really created was not by my thought of creating a features coming it was more based off demand of other people wanting to be part of a community that intermingled.
+
+43
+00:06:50.160 --> 00:07:01.410
+Jonathan Herke: So then yeah I got I got a call from tiger graph and they're like we want you to be a technology evangelist i'm from Minnesota I have no idea all the terminology from.
+
+44
+00:07:01.950 --> 00:07:14.370
+Jonathan Herke: Silicon Valley, so I was like what's the technology evangelist they're like we would just want you to do what you're doing but do it for us do meetups do events do blogs do videos do engagements help.
+
+45
+00:07:14.970 --> 00:07:23.310
+Jonathan Herke: Help other developers understand the technology, and so, two years ago I jumped off of usg after working there for six and a half years.
+
+46
+00:07:23.820 --> 00:07:37.410
+Jonathan Herke: and made the transition to to tiger graph and so now i've been here for for two years and training, training people up nurturing the commute I run the Community for for tiger graph we do a lot of different events and.
+
+47
+00:07:39.090 --> 00:07:45.930
+Jonathan Herke: and challenges and do a lot of Community engagement a lot Open Source projects my favorite thing to do is is.
+
+48
+00:07:46.470 --> 00:07:58.680
+Jonathan Herke: Share other people's projects in the Community, so if I see something cool on github or somebody reaches out, I always like to to advocate and share their blogs and get it repost it on social media.
+
+49
+00:08:00.180 --> 00:08:10.920
+Jonathan Herke: But yeah that's that's a crash course in my my life and my background and networking engineer to founder and residents to building out emerging tech lab.
+
+50
+00:08:11.550 --> 00:08:19.290
+Jonathan Herke: To doing a lot of Community engagement to ultimately being a developer, leaving the developer relations team here at tiger graph so.
+
+51
+00:08:21.210 --> 00:08:23.130
+Jonathan Herke: Any any questions on the journey.
+
+52
+00:08:25.140 --> 00:08:25.920
+Jonathan Herke: yeah go ahead.
+
+53
+00:08:32.010 --> 00:08:32.670
+Jonathan Herke: I was what.
+
+54
+00:08:35.430 --> 00:08:38.010
+Jonathan Herke: How is working for tech graph it's it's awesome.
+
+55
+00:08:39.480 --> 00:08:49.410
+Jonathan Herke: yeah no it's it's um if you're not familiar, I mean so graph databases power pretty much everything, today you just might not know know about it.
+
+56
+00:08:51.780 --> 00:08:57.270
+Jonathan Herke: And Google Google declared a blog that says things not strings if you ever want to look it up.
+
+57
+00:08:58.110 --> 00:09:03.480
+Jonathan Herke: And it was their declaration of them using graph to interconnect all the data together so that uncanny ability.
+
+58
+00:09:03.930 --> 00:09:07.680
+Jonathan Herke: When you're when you're browsing different things and ads pop up.
+
+59
+00:09:07.980 --> 00:09:17.580
+Jonathan Herke: that's because they're doing all of these different things that are all interconnected and that could includes not only your behaviors but other people's like similar people like you and their behaviors.
+
+60
+00:09:18.300 --> 00:09:36.450
+Jonathan Herke: If you look at the algorithms for netflix or HBO is a customer of ours, how you're able to recommend content that that's powered by graph under the hood of linkedin is powered by graph Facebook under the hood of pinterest even huge companies doing analytical.
+
+61
+00:09:38.730 --> 00:09:49.020
+Jonathan Herke: Like way fer, for example, there's so many different applications of graph and it's weird because, not a lot of people understand that, but I think what I love about tiger graph.
+
+62
+00:09:49.620 --> 00:10:03.690
+Jonathan Herke: Is that there's not many tools out there that are for scale that are make this technology available for everybody, so uber and all these companies have their own proprietary graph solutions.
+
+63
+00:10:04.170 --> 00:10:15.570
+Jonathan Herke: That they home grown and built what tiger raft neo for Jay Cambridge semantics, some of them are labeled property graphs and some of them are already F graphs like star dog.
+
+64
+00:10:16.020 --> 00:10:24.120
+Jonathan Herke: But what these technology companies do is enable everybody as a developer and customers and consumers, whatever you want to call them.
+
+65
+00:10:24.720 --> 00:10:30.810
+Jonathan Herke: To have that power of these big giant tech companies, so my favorite part, though, is tiger graph is.
+
+66
+00:10:31.650 --> 00:10:45.060
+Jonathan Herke: We feel we're far ahead of other other companies and so it's cool just to be at a company that just as sort of a leader in that space we haven't been around the longest but we definitely have the fastest technology platform so.
+
+67
+00:10:47.310 --> 00:10:56.580
+Jonathan Herke: yeah other than that the people are great the jobs great I love helping people I it's it's a work hard play it play hard.
+
+68
+00:10:58.260 --> 00:11:02.550
+Jonathan Herke: work hard work hard play hard anyways we do a lot of different things.
+
+69
+00:11:03.900 --> 00:11:08.370
+Jonathan Herke: And leadership's great as far as giving us full.
+
+70
+00:11:10.950 --> 00:11:19.170
+Jonathan Herke: I wouldn't say control but but gives us the breathing space to allow us to innovate and do the things that we want to do that really are targeted towards.
+
+71
+00:11:19.590 --> 00:11:27.900
+Jonathan Herke: Whatever we're trying to drive in my in my perspective, i'm trying to grow adoption i'm trying to get more people to understand how to use the technology.
+
+72
+00:11:28.980 --> 00:11:33.180
+Jonathan Herke: and grow the Community, so I do a lot of different events, so I love, a lot of things yeah.
+
+73
+00:11:36.390 --> 00:11:45.000
+Aditya S Kulkarni: I guess, I guess, one question i've asked is just from your perspective, what do you feel are the main things to take away from college, other than just learning.
+
+74
+00:11:45.210 --> 00:11:52.050
+Aditya S Kulkarni: Just just like learning the general topics that you have in your classes like what are the main things you can take advantage in that experience.
+
+75
+00:11:53.100 --> 00:12:01.530
+Jonathan Herke: um so one thing I would have done differently in college if I, and one thing that they never teach you in college is.
+
+76
+00:12:03.090 --> 00:12:11.910
+Jonathan Herke: they'll give you the book, but what you want to do there's two things you want to build influence and you want to build connections Those are the two things i'll get you anywhere in life.
+
+77
+00:12:13.350 --> 00:12:28.830
+Jonathan Herke: So building influence is done by sharing right So if you learn something in school, besides just the school project, how can you apply what you learned and build something cool and then share it share it on github share it through.
+
+78
+00:12:30.660 --> 00:12:39.600
+Jonathan Herke: share it through blogs or videos but, more importantly, how can you take, how can you amplify what you share to become so let's say you learn like a really.
+
+79
+00:12:41.220 --> 00:12:43.050
+Jonathan Herke: let's say you learn how to do like.
+
+80
+00:12:44.580 --> 00:12:55.500
+Jonathan Herke: I know you're doing data science and maybe you're putting a ui on top of a data science problem or something like that or how okay let's do stage maker so let's say you're doing some machine learning right.
+
+81
+00:12:56.010 --> 00:13:06.060
+Jonathan Herke: you're learning to do some data science right and you build this really cool thing on stage maker, so if it was me, I would, I would not only do it for class, but I would be like.
+
+82
+00:13:06.600 --> 00:13:07.890
+Jonathan Herke: Okay, I built this really cool.
+
+83
+00:13:07.920 --> 00:13:17.340
+Jonathan Herke: thing i'm going to have really great documentation i'm going to do a blog made a video then i'm going to go to the stage maker Community forum, then i'm going to start posting about it, then i'm going to try to reach out to whoever's leading that community.
+
+84
+00:13:17.610 --> 00:13:23.160
+Jonathan Herke: make them aware of it, and then try to drive more visibility into that so you're trying to build up like.
+
+85
+00:13:23.820 --> 00:13:33.420
+Jonathan Herke: you're taking something that Okay, you could have just learned it and then took the test and then forgot about it but you're you're you're you could take it so much farther.
+
+86
+00:13:34.140 --> 00:13:42.660
+Jonathan Herke: So that kind of thing will be built around a lot of relationships so there's a lot of that stuff they don't teach you in school, and I think if you do those kind of things you can.
+
+87
+00:13:43.590 --> 00:13:51.360
+Jonathan Herke: You can far outpaced your peers, especially once you get to the point where you want to land your dream job you can engineer yourself into your dream job.
+
+88
+00:13:51.780 --> 00:13:55.710
+Jonathan Herke: Right, so you can literally craft these things when I hire people.
+
+89
+00:13:56.100 --> 00:14:07.470
+Jonathan Herke: I look at their github I look at what they're talking about what they do, like everyone could say stuff on resumes but then, if I see like a YouTube video and like blogs, and their github projects, and I can see all this things and they're not just like.
+
+90
+00:14:08.010 --> 00:14:13.500
+Jonathan Herke: Oh, look at my resume cool I took this basic class whatever like I really don't care.
+
+91
+00:14:14.160 --> 00:14:27.090
+Jonathan Herke: Even if you have a 4.0 i'll hire somebody that never even went to college that literally is just like out there and showing the proof in the pudding not not not somebody that just says they're good at something so anyways.
+
+92
+00:14:28.590 --> 00:14:37.590
+Jonathan Herke: that's what I would do different and that's what I would encourage throughout college is building connections and building up credibility and engineering yourself, while you're doing that.
+
+93
+00:14:40.740 --> 00:14:42.570
+So, like, I understand, like.
+
+94
+00:14:45.540 --> 00:14:46.650
+large scale application.
+
+95
+00:14:51.360 --> 00:14:51.780
+databases.
+
+96
+00:14:55.980 --> 00:15:02.550
+Jonathan Herke: yeah you could you could I could just share a couple things that i'm building right now that are small scale, maybe gives you some ideas.
+
+97
+00:15:04.500 --> 00:15:07.710
+Jonathan Herke: Sure yeah so one, let me see if I can share my.
+
+98
+00:15:08.760 --> 00:15:11.520
+Aditya S Kulkarni: yep just give you a call to work.
+
+99
+00:15:11.910 --> 00:15:16.140
+Jonathan Herke: So even even you can create something like this.
+
+100
+00:15:17.760 --> 00:15:30.720
+Jonathan Herke: So of course I use tg cloud because it's free it's easy to use, so feel free to use tg cloud it's Nice because you can do a lot of different things and engage, you can you can interface with it and you don't have to say anything out.
+
+101
+00:15:32.130 --> 00:15:34.350
+Jonathan Herke: But this is wait, the system, the one.
+
+102
+00:15:38.580 --> 00:15:39.270
+Jonathan Herke: Let me to.
+
+103
+00:15:42.540 --> 00:15:55.590
+Jonathan Herke: log into this one, this is my linkedin graph so this one, this one you guys could do even it's pretty straightforward basically what I wanted to do is, I wanted to see all the interconnections between some of my colleagues at work.
+
+104
+00:15:56.700 --> 00:16:10.560
+Jonathan Herke: So I went to design schema so under the hood of linkedin as they're actually doing this, if you go to like your people, and you go to my network and you go to connections.
+
+105
+00:16:11.580 --> 00:16:14.220
+Jonathan Herke: trying to find, where it says like first degree second degree and stuff.
+
+106
+00:16:16.440 --> 00:16:24.630
+Jonathan Herke: But you guys know what i'm you know i'm talking about right first degrees here this first degree second degree third degree, so this means john's connected to.
+
+107
+00:16:25.230 --> 00:16:36.300
+Jonathan Herke: Dan and the first degree and then Dan might have a friend, but i'm not connected to them so there's a second degree and then there's third degree, so one of the neat things you can do with this and pretty much with all.
+
+108
+00:16:37.050 --> 00:16:46.500
+Jonathan Herke: All your social media is you can go to settings and privacy and then you can go to data privacy and get a copy of your data and then you can grab your connections.
+
+109
+00:16:48.480 --> 00:16:49.170
+Jonathan Herke: So you can fetch it.
+
+110
+00:16:50.250 --> 00:17:07.890
+Jonathan Herke: And then, what we're doing was so we had a list of like I think there's 20 other people, and we had them drop their connections, and so the data file, you can get the company, the position and person and see if you can explore ground.
+
+111
+00:17:09.510 --> 00:17:19.320
+Jonathan Herke: So you know here here's a here's a bunch of different companies yeah you can just click on where's this person work.
+
+112
+00:17:20.880 --> 00:17:24.570
+Jonathan Herke: This person works at whatever company that's called.
+
+113
+00:17:25.980 --> 00:17:27.090
+Jonathan Herke: This is the position.
+
+114
+00:17:28.620 --> 00:17:37.920
+Jonathan Herke: Alright, so and nobody else woman design magazine, so you just start crawling us there's probably more than one account manager has a role so let's see.
+
+115
+00:17:41.040 --> 00:17:47.040
+Jonathan Herke: yeah so you can you can start to see different different you know different views here if i'm just manually creating.
+
+116
+00:17:48.420 --> 00:17:54.660
+Jonathan Herke: crawling us, but the things I wanted to do was how can I find who's connected to who maybe by a company.
+
+117
+00:17:55.770 --> 00:18:03.510
+Jonathan Herke: So I just wrote wrote some basic queries like get connections of a person, so this one, if I do.
+
+118
+00:18:06.750 --> 00:18:08.340
+Jonathan Herke: See somebody I know.
+
+119
+00:18:10.890 --> 00:18:17.550
+Jonathan Herke: Now, I can see who's connected to my work with Dan mccurry who's an optimum employee.
+
+120
+00:18:18.990 --> 00:18:33.360
+Jonathan Herke: And then, how do I take this further one of the cool things that tiger APP has is that you can get everything as a as a rest endpoint so, then what we did was and I don't have the shame, I have it open just a second, let me pull something up.
+
+121
+00:18:34.890 --> 00:18:42.780
+Jonathan Herke: to pull this up so, then I wanted to put a gui on it, because there's I don't want people to interface with the database, I just wanted them to have something.
+
+122
+00:18:43.800 --> 00:18:46.950
+Jonathan Herke: super simple so i'm just going to click on this.
+
+123
+00:18:50.220 --> 00:18:53.880
+Jonathan Herke: yeah graphical user interface, so we built.
+
+124
+00:18:55.080 --> 00:19:04.320
+Jonathan Herke: This is this is called a read ash is the the tooling This allows you to build like a bar charts line charts pie charts and all those kind of things.
+
+125
+00:19:05.760 --> 00:19:16.770
+Jonathan Herke: And, and this in a table, of course, so that queries feed into this table so it's taking json and converting it to a data frame, but then I can search, you know I can be like Okay, who all works at silence.
+
+126
+00:19:18.540 --> 00:19:31.500
+Jonathan Herke: You know that that i'm connected to so who's connected to who I know that works at this company so that's like one small use case the other we're doing some other stuff if you guys are familiar discord.
+
+127
+00:19:32.580 --> 00:19:37.650
+Jonathan Herke: yeah yeah we're building one one of our use cases and I don't know if I have it here.
+
+128
+00:19:38.820 --> 00:19:49.980
+Jonathan Herke: Is we're basically pulling all of our discord information out then running nlp through the discord so, then we can see what people are talking about and then building a knowledge graph so we can basically.
+
+129
+00:19:50.220 --> 00:20:02.460
+Jonathan Herke: And then you can put a chat Bot, on top of that, or do whatever you want or put you can put a dashboard on to it and see what you know how many times people talk about a certain let's say Python how many times that people say Python and community.
+
+130
+00:20:03.780 --> 00:20:14.400
+Jonathan Herke: So you can put like analytical dashboard with your with your with your data from discord that's another sort of side project and we're doing that, beyond discord we're going into discord reddit.
+
+131
+00:20:15.870 --> 00:20:22.440
+Jonathan Herke: We were doing news post so we're basically what our thought was for this little side project was can we build like.
+
+132
+00:20:23.040 --> 00:20:34.560
+Jonathan Herke: What we know about ourselves, but then also what we know about other people or other communities so like competitors of analysis tool, so we can analyze other other communities, so you can go to.
+
+133
+00:20:35.910 --> 00:20:43.920
+Jonathan Herke: This Community where are they talking about maybe some news post come up What were they talking about are putting this all this interconnected graph solution.
+
+134
+00:20:45.300 --> 00:21:00.750
+Jonathan Herke: So that's another small one here we're making this graph specifically is pretty simplistic it's just got users and assets and tags basically we're building a clone of pinterest is what what this this this one that i'm currently on.
+
+135
+00:21:01.800 --> 00:21:06.960
+Jonathan Herke: So yeah you could I mean you could you could there's so many different things, and so many different ways that you could use graph.
+
+136
+00:21:08.160 --> 00:21:11.010
+Jonathan Herke: These are just some of the things that i'm actively working on right now.
+
+137
+00:21:13.890 --> 00:21:19.200
+Jonathan Herke: Hopefully that answered the question but yeah you could sky's the limit for different ideas.
+
+138
+00:21:23.490 --> 00:21:26.790
+Jonathan Herke: yeah another actually another resource that you guys might like.
+
+139
+00:21:29.910 --> 00:21:31.410
+Jonathan Herke: This was developed by one of.
+
+140
+00:21:32.760 --> 00:21:34.980
+Jonathan Herke: Our interns as a student as a freshman.
+
+141
+00:21:40.800 --> 00:21:44.400
+Jonathan Herke: it's really cool because it walks you through every single step and.
+
+142
+00:21:45.780 --> 00:21:50.490
+Jonathan Herke: Have you guys ever heard of plot Lee or dash i'm assuming everyone knows Python right.
+
+143
+00:21:51.060 --> 00:21:51.990
+Sarthak Agrawal: yeah yeah.
+
+144
+00:21:52.650 --> 00:21:56.640
+Jonathan Herke: Okay cool So if you know Python you'll be superstars.
+
+145
+00:21:59.070 --> 00:21:59.550
+Jonathan Herke: This one.
+
+146
+00:22:01.770 --> 00:22:03.420
+Jonathan Herke: And here.
+
+147
+00:22:07.290 --> 00:22:16.110
+Jonathan Herke: So you can with politely politely and dash so partly as a visualization component library bar charts line charts all those kind of chart charity things.
+
+148
+00:22:17.160 --> 00:22:20.040
+Jonathan Herke: dash allows you to put things into.
+
+149
+00:22:21.450 --> 00:22:32.430
+Jonathan Herke: If you've heard of streamline dashes like a dashboard in tool, but a little bit more advanced, you can do a lot more different things like multi pages and and whatnot so Python based So if you know pipeline, you can build these pretty fast.
+
+150
+00:22:33.240 --> 00:22:44.910
+Jonathan Herke: This one this one's like healthcare data this one's coven 19 data, this one is movie I be ID bm, I think, is what it is, or this one.
+
+151
+00:22:45.690 --> 00:22:57.000
+Jonathan Herke: One of our developer advocates put a bunch of arduino sensors in his room, it was sensing different data streaming wait, maybe not this one, one of these that he was doing was streaming data from sensors.
+
+152
+00:22:58.170 --> 00:23:08.070
+Jonathan Herke: But all of these have full notebooks you can literally run through this and recreate it, but then what this Quick Start guide also allows you to do.
+
+153
+00:23:09.270 --> 00:23:18.210
+Jonathan Herke: is literally go see sorry there's to start the Quick Start is like just going to the basics, the adventure is more like the storytelling.
+
+154
+00:23:19.290 --> 00:23:32.880
+Jonathan Herke: Put a whole story together about how how you can navigate every single step and use this this library so everything from like nav bars to sidebars and whatnot so i'll drop this into the.
+
+155
+00:23:34.020 --> 00:23:42.660
+Jonathan Herke: chat but the cool thing about visualization ones is these usually resonate pretty well on like your linkedin and whatnot every time I posted I get like.
+
+156
+00:23:43.500 --> 00:23:56.520
+Jonathan Herke: 200 300 likes a lot of people like visualization stuff so what i'll do sometimes is i'll create like an APP and then i'll take a video of it and they'll convert it to a gift and then put it into a linkedin to share.
+
+157
+00:23:59.280 --> 00:24:04.710
+Aditya S Kulkarni: Well, what is the name of that Google blog posts, you said that like is like things strings.
+
+158
+00:24:04.800 --> 00:24:06.240
+Jonathan Herke: Oh things not strings.
+
+159
+00:24:06.960 --> 00:24:08.010
+Aditya S Kulkarni: Okay okay.
+
+160
+00:24:09.300 --> 00:24:09.720
+Jonathan Herke: yeah.
+
+161
+00:24:10.980 --> 00:24:18.000
+Jonathan Herke: I can you want me to share have an old back if maybe for those people that aren't familiar with.
+
+162
+00:24:19.620 --> 00:24:20.730
+Jonathan Herke: Some of the things.
+
+163
+00:24:22.710 --> 00:24:26.730
+Jonathan Herke: So I do a lot of presentations and so I have a lot of these decks.
+
+164
+00:24:28.260 --> 00:24:31.020
+Jonathan Herke: So I think there's an interesting one.
+
+165
+00:24:35.880 --> 00:24:47.790
+Jonathan Herke: yeah I can start here so here's a bunch of different like graph use cases and he's have different people are using us so like Jaguar Land Rover is really tracing their whole supply chain.
+
+166
+00:24:48.300 --> 00:24:56.460
+Jonathan Herke: You know let's say a ship gets stuck in a canal, what does that impact on all the different parts and things across all of our products and services.
+
+167
+00:24:57.690 --> 00:25:01.290
+Jonathan Herke: You have like wish COM that's looking at transaction history.
+
+168
+00:25:03.990 --> 00:25:16.590
+Jonathan Herke: You have networking operationally you have everything from like deep link analytics so doing multi hops tracing that's another thing like doing doing deep transactional traces.
+
+169
+00:25:17.460 --> 00:25:30.600
+Jonathan Herke: A lot of people aren't using a tie graph for the cool one that, I mean knowledge graphs are pretty that's like Google, you know search knowledge graphs that's that's pretty traditional the coolest one that's not listed on here, let me get seeping into it.
+
+170
+00:25:32.130 --> 00:25:35.400
+Jonathan Herke: So, most of the customers have like this, but these are powered by.
+
+171
+00:25:37.200 --> 00:25:38.280
+Jonathan Herke: The powered by a.
+
+172
+00:25:41.340 --> 00:25:44.340
+Jonathan Herke: graph analytics oh yeah here, this might be helpful for some people.
+
+173
+00:25:45.780 --> 00:25:46.260
+Jonathan Herke: So, like.
+
+174
+00:25:49.080 --> 00:26:00.090
+Jonathan Herke: This is this is basically what that sample project was doing so, I have a bunch of connections, if you had your all your connections interconnected, this is what it look like, if you visualize sell your stuff so that's really what's under the hood.
+
+175
+00:26:01.560 --> 00:26:12.780
+Jonathan Herke: And this was just me breaking it Okay, if I was going to break build linkedin graph How would I deconstruct it, these are all the different components, so if you start thinking like graph this is how I look.
+
+176
+00:26:14.250 --> 00:26:27.060
+Jonathan Herke: At these different things, and then here's the part that we just talked about having first degree second degree third degree connections and then you run different algorithms that create fields, so a lot of different social social.
+
+177
+00:26:28.380 --> 00:26:30.150
+Jonathan Herke: Social platforms do stuff like this.
+
+178
+00:26:31.530 --> 00:26:36.720
+Jonathan Herke: This is going into another one, so how to do recommendation engines it's using cosine similarity algorithms.
+
+179
+00:26:38.970 --> 00:26:44.310
+Jonathan Herke: Everything you do is tracked everything you do, as far as a click hover over how long you're on a page.
+
+180
+00:26:44.490 --> 00:26:54.150
+Jonathan Herke: All these different things are metrics that you're that you can store into your Meta graph and you can do you can use to to create a product recommendations, of course, we talked about.
+
+181
+00:26:54.660 --> 00:27:04.950
+Jonathan Herke: Google and things not strings blog 2015 pretty sure I think that's when it came out that there may be most famous algorithms called page rank.
+
+182
+00:27:06.180 --> 00:27:09.000
+Jonathan Herke: So pagerank is just calculating the influence score.
+
+183
+00:27:10.050 --> 00:27:15.690
+Jonathan Herke: From vertex vertex I think now they change their their algorithm of how they derive the content.
+
+184
+00:27:16.710 --> 00:27:26.490
+Jonathan Herke: But that's what they used to use, and that was based off Larry page, this is my favorite one and coolest one is they're doing real real real time.
+
+185
+00:27:27.660 --> 00:27:35.220
+Jonathan Herke: transaction energy loads so they're like analyzing the integrated system at in real time and to redistribute or like.
+
+186
+00:27:36.330 --> 00:27:44.220
+Jonathan Herke: Reporting on all these different you know substations to this, and this, and so they can recalibrate you know what's what's happening in real time across the energy grid system.
+
+187
+00:27:45.060 --> 00:27:51.210
+Jonathan Herke: which I think is critical, this is the supply chain back thinking about Land Rover Jaguar Land Rover so you have.
+
+188
+00:27:51.600 --> 00:28:04.380
+Jonathan Herke: You know suppliers parts features and cars, so you might have features that are tied to multiple different parts, you know what happens if this part doesn't get somewhere because of that, what are the, what are the cut conversations effects from that.
+
+189
+00:28:06.330 --> 00:28:21.900
+Jonathan Herke: These are, this is more like anti resolution fraud so you're looking at you know the users with maybe the same IP same same address maybe they try to log into a different account but they're at the same IP you can track all those different things and do traces.
+
+190
+00:28:23.250 --> 00:28:26.340
+Jonathan Herke: This one's really cool for into machine learning Ai, how can you do.
+
+191
+00:28:26.730 --> 00:28:40.500
+Jonathan Herke: graph based future generation, so you know traditional features, you have the tabular structure, you can look at the structure of the data and the interconnectedness of the data to to drive new feature or new features, they can use in your machine learning algorithm.
+
+192
+00:28:42.390 --> 00:28:46.020
+Aditya S Kulkarni: Know what's the difference between like a good phone and a bad phone in this.
+
+193
+00:28:46.470 --> 00:28:54.420
+Jonathan Herke: yeah yeah so you know this, this is actually implementation at China mobile Have you ever had do you have an iPhone that says spam, sometimes it pops up.
+
+194
+00:28:55.530 --> 00:28:57.930
+Aditya S Kulkarni: yeah it's like scam likely or something like that.
+
+195
+00:28:58.140 --> 00:29:07.050
+Jonathan Herke: yeah so what that that's doing right here that's that's basically what it is it's popping that button up and doing it based off these features so.
+
+196
+00:29:07.470 --> 00:29:23.910
+Jonathan Herke: The bad phone gets a lot of rejections like people don't answer just rejected right when it's so that's one thing, the number of callbacks nobody's calling back that phone so bad phone if there's a short call duration, so you can pick up in these like.
+
+197
+00:29:25.080 --> 00:29:31.560
+Jonathan Herke: Maybe it's some automated message usually then then people hang up right away so there's all of these characteristics about.
+
+198
+00:29:32.940 --> 00:29:40.050
+Jonathan Herke: Bad phone even average distance so like this phone isn't kindness one that's kindness one now let's go to the other side.
+
+199
+00:29:40.680 --> 00:29:46.710
+Jonathan Herke: You have a good phone maybe this is uconn your mom your mom's Klein your dad your dad's calling your.
+
+200
+00:29:47.220 --> 00:30:04.710
+Jonathan Herke: aunt or whatever you know there's these interconnection of groups of phone calls going on there's also long durations of calls there's also numerous calls, you probably call your mom or dad grandpa a lot of different times and usually they have connections and there's.
+
+201
+00:30:06.180 --> 00:30:16.140
+Jonathan Herke: A stable group of like phone numbers yours calling So these are these are features that I think there was like 250 features that they generated I don't know how many of them, they use but.
+
+202
+00:30:18.120 --> 00:30:20.070
+Jonathan Herke: yeah, this is a deep link.
+
+203
+00:30:21.420 --> 00:30:32.760
+Aditya S Kulkarni: And you know how you you weren't able to download the data for that linkedin you're able to just like go in and download, are there any other data sources were like just for different applications where you could just go and get that.
+
+204
+00:30:33.930 --> 00:30:36.690
+Jonathan Herke: um yeah there's.
+
+205
+00:30:38.070 --> 00:30:49.620
+Jonathan Herke: You can comfort pretty much anything that's in tabular format to to to graph format, so one way, I would, if you're if you're interested or thinking about doing that is you.
+
+206
+00:30:50.670 --> 00:30:56.220
+Jonathan Herke: can go to the learning sessions that are going on right now the fourth one is just about to come out.
+
+207
+00:30:57.930 --> 00:31:11.220
+Jonathan Herke: So if you go tiger graph i'd watch these two videos because my my coworker is putting together for a brand new like if you're brand new to tiger graph how to start thinking about graph.
+
+208
+00:31:13.050 --> 00:31:21.030
+Jonathan Herke: It would be part one of this graph one on one so it's just just came out recently in Part Two part three, is coming out tomorrow.
+
+209
+00:31:21.420 --> 00:31:29.760
+Jonathan Herke: But it's taking somebody from the mindset of I have never heard of graph and now I have some tabular data that I want to explore so whatever that tabular data is.
+
+210
+00:31:30.210 --> 00:31:39.900
+Jonathan Herke: How do I start to think and graph and interconnect that in graph and how do I derive what I want to drive out of it so that's that's what I would recommend is watching this part one and part two.
+
+211
+00:31:42.420 --> 00:31:42.720
+Aditya S Kulkarni: Okay.
+
+212
+00:31:46.920 --> 00:31:52.530
+Jonathan Herke: But yeah so like in the past we've had some interns that wanted to engineer themselves into working at.
+
+213
+00:31:53.640 --> 00:32:10.890
+Jonathan Herke: One of our customers places, so you did a lot of projects that were pertaining to finance of fraud, and so, you know as as an intern he created all these different Open Source projects blogs and videos and then he.
+
+214
+00:32:12.330 --> 00:32:16.740
+Jonathan Herke: Basically, went to the hiring manager at this this bank and said.
+
+215
+00:32:17.790 --> 00:32:30.180
+Jonathan Herke: They were there recruiting actively at the time and said yeah i'd love to work with you and and then they said yeah we really want you, and then he was negotiating his salary as an intern to basically double his salary.
+
+216
+00:32:32.250 --> 00:32:37.110
+Jonathan Herke: Because he had all the proof it wasn't like he said Oh, I worked on paragraph on his resume it was literally like.
+
+217
+00:32:37.530 --> 00:32:44.850
+Jonathan Herke: Bam Bam Bam Bam Bam Bam so you know he engineered himself into that that kind of position but that's what you could do as well, so like if you wanted to.
+
+218
+00:32:45.450 --> 00:32:55.320
+Jonathan Herke: work at tesla or work at wherever How would you engineer yourself into to be in that position, and you might need somebody that can help guide you or be a mentor as well.
+
+219
+00:32:56.850 --> 00:33:07.770
+Aditya S Kulkarni: yeah I think that's an interesting concept, just like with the engineering yourself that you can it's not like you can just start off with nothing and still just do different things to build yourself up in that way.
+
+220
+00:33:08.610 --> 00:33:13.920
+Jonathan Herke: yeah yeah you just you just ask yourself, you try to figure out like where where you can.
+
+221
+00:33:14.340 --> 00:33:20.880
+Jonathan Herke: provide the most like, how can you how can you demonstrate that you can provide value in that perspective space that you want to be in.
+
+222
+00:33:21.450 --> 00:33:31.380
+Jonathan Herke: And then it's all about building up that and then driving that awareness so like maybe hopefully it maybe they even reach out because they see that you became an influencer in that space, because you were doing a bunch of.
+
+223
+00:33:32.520 --> 00:33:35.790
+Jonathan Herke: a bunch of things along that journey to build that influence, maybe.
+
+224
+00:33:37.080 --> 00:33:43.410
+Jonathan Herke: I don't know bank people go to a specific meetup and there you know you start to go and short hair stuff there and.
+
+225
+00:33:43.980 --> 00:33:54.360
+Jonathan Herke: This VP of this executive bank is at that meetup and they saw your presentation, they want to give you a job now so it's just about putting yourself out there and engineering yourself and different positions.
+
+226
+00:33:55.980 --> 00:33:56.250
+Aditya S Kulkarni: cool.
+
+227
+00:33:58.830 --> 00:34:00.630
+Aditya S Kulkarni: Do you guys have any other questions.
+
+228
+00:34:01.530 --> 00:34:01.920
+yeah.
+
+229
+00:34:04.710 --> 00:34:08.370
+i'm Danny and I was wondering like you keep saying.
+
+230
+00:34:11.700 --> 00:34:12.270
+How do I, like.
+
+231
+00:34:16.440 --> 00:34:23.100
+Jonathan Herke: Well, what makes you have to you have to ask yourself what makes you passionate you know what what what excites you what kind of things.
+
+232
+00:34:23.760 --> 00:34:33.930
+Jonathan Herke: are of interest to you so like let's say I love to play virtual reality, I like to do virtual out of games, or something like that.
+
+233
+00:34:34.410 --> 00:34:41.100
+Jonathan Herke: You know, and I want to be a virtual I like I want to work at oculus you know how can I engineer my projects and different things.
+
+234
+00:34:41.580 --> 00:34:49.380
+Jonathan Herke: and add a unique perspective that maybe they're not thinking about and then, how do I get in front of that community so when you want to like.
+
+235
+00:34:49.800 --> 00:35:03.930
+Jonathan Herke: So if I was doing vr ar I might do some different hackathons and then I might share what I did, and then tag oculus and stuff and then go to their community and share it try to find key influencers maybe even my local area.
+
+236
+00:35:04.350 --> 00:35:18.030
+Jonathan Herke: Even even been to the point where i'm going to be like I find somebody at oculus that lives in Minnesota and I connect with them on linkedin and say hey i'd love to go and grab a cup of coffee, you know, so you can you can you can do all these.
+
+237
+00:35:19.590 --> 00:35:27.630
+Jonathan Herke: Active things not and and try to build that up versus being like Oh, I always wanted to work at oculus go through school and then you.
+
+238
+00:35:27.990 --> 00:35:40.590
+Jonathan Herke: And then you got like oh I got my resume here you go and they'd be like I don't care about you, I don't know who you are you're just another resume like, how do you how do you not be that so like I guarantee you if, like.
+
+239
+00:35:41.640 --> 00:35:47.940
+Jonathan Herke: If you wanted to work at tiger, if you want to work at whatever company if you're doing all those different things they're going to be taking notice.
+
+240
+00:35:48.330 --> 00:35:56.580
+Jonathan Herke: It wasn't me who offered a job, to share it was our CEO and our CEO is like look at this person creating all this stuff because she was sharing all this.
+
+241
+00:35:57.300 --> 00:36:06.630
+Jonathan Herke: cool things on linkedin social media was in the forums, creating all these different things doing hackathons Vance that the the CEO said hey, we need to hire this person I said.
+
+242
+00:36:07.140 --> 00:36:16.110
+Jonathan Herke: All right, let's do it, you know and so she got a job right so that's that's what you need to do is is think through that and they don't teach you at that school, at least not the school, I went to.
+
+243
+00:36:19.980 --> 00:36:21.000
+You did the vr game.
+
+244
+00:36:24.240 --> 00:36:26.070
+But I don't really have like a vr.
+
+245
+00:36:28.500 --> 00:36:29.460
+want to do something.
+
+246
+00:36:34.650 --> 00:36:39.030
+Jonathan Herke: What I said just if you don't know what you want to do yeah.
+
+247
+00:36:40.140 --> 00:36:51.030
+Jonathan Herke: um so one thing I would do is maybe start to explore like a kid so let's go back to oculus I have no idea anything about their Community so i'm just making all this stuff up.
+
+248
+00:36:51.450 --> 00:36:57.420
+Jonathan Herke: I will start to get like a deep dive into their Community what's resonating what are some like new product.
+
+249
+00:36:57.810 --> 00:37:03.360
+Jonathan Herke: Maybe even not start to think of like what are their new product releases and might, might I might start targeting like.
+
+250
+00:37:03.810 --> 00:37:11.250
+Jonathan Herke: Building a how to video with this new feature that they just released because that's always going to be hot like they're trying to get out the new features.
+
+251
+00:37:12.030 --> 00:37:25.350
+Jonathan Herke: And then i'd start to get my presence known and then I would start to just explore different things and come up with unique things in that space so maybe like Okay, how do you do, even if you wanted to combine air and graph, how do you do like.
+
+252
+00:37:26.400 --> 00:37:33.480
+Jonathan Herke: So we're talking to unity, right now, and how do we do, how do you do analytics on all the actions and behaviors and.
+
+253
+00:37:33.870 --> 00:37:45.180
+Jonathan Herke: People and users and stuff like that all that data is stored into a big graph and then you can run all the analytics that you went on to it so maybe you do something unique like that I do include vr.
+
+254
+00:37:45.570 --> 00:37:54.000
+Jonathan Herke: Video games with with analytics are you know you have to you have to just try to like feel it out go to you have to first go out there and try to explore.
+
+255
+00:37:54.540 --> 00:38:10.230
+Jonathan Herke: And then see where what what interests you or what what yeah but but a good way, though, is is if there's new features that come out and you start being the first one to shirt like share how to do stuff with those features that company is going to take notice, you know.
+
+256
+00:38:11.550 --> 00:38:12.900
+Jonathan Herke: that's that's one thing you could do.
+
+257
+00:38:15.990 --> 00:38:16.290
+Jonathan Herke: huh.
+
+258
+00:38:20.130 --> 00:38:29.190
+Jonathan Herke: yeah yeah I mean you have to really put your put yourself out there, since not asking simple in the way i've always given yeah.
+
+259
+00:38:29.610 --> 00:38:39.000
+Jonathan Herke: always be like give give give give and people are going to start taking notice of it but you're given like strategic like you have a reason why you're doing it.
+
+260
+00:38:42.330 --> 00:38:43.740
+Jonathan Herke: Thank you yeah.
+
+261
+00:39:02.040 --> 00:39:03.420
+Jonathan Herke: Any last minute questions.
+
+262
+00:39:06.300 --> 00:39:07.200
+would be are correct.
+
+263
+00:39:08.280 --> 00:39:08.610
+Jonathan Herke: me.
+
+264
+00:39:10.350 --> 00:39:13.500
+Jonathan Herke: No, I don't work at a vr company I work at a graph database company.
+
+265
+00:39:16.920 --> 00:39:17.430
+name is here.
+
+266
+00:39:18.510 --> 00:39:34.860
+Jonathan Herke: Oh, I was just giving I was just gonna example, so we were talking about how to engineer yourself and I just took a random a random company and was walking through how I would engineer myself and if I was going after that perspective john or role or company I got confused for a second.
+
+267
+00:39:42.840 --> 00:39:43.200
+Sorry.
+
+268
+00:39:45.900 --> 00:39:47.160
+I just heard that example.
+
+269
+00:39:50.580 --> 00:39:52.230
+Jonathan Herke: You could do that for any example, though.
+
+270
+00:39:53.250 --> 00:40:01.830
+Jonathan Herke: The big bank healthcare company, you know just engineer yourself doing strategic things to put your put yourself out there and getting visibility.
+
+271
+00:40:03.240 --> 00:40:15.390
+Aditya S Kulkarni: Oh, I have like I kind of have an interesting question, what do you think, or what do you think are the next like big upcoming technologies that you feel I don't feel like are still pretty new but there they have like a huge potential to just.
+
+272
+00:40:16.440 --> 00:40:19.440
+Aditya S Kulkarni: expanded become like pop things in CS.
+
+273
+00:40:20.760 --> 00:40:22.800
+Jonathan Herke: See yes um well.
+
+274
+00:40:25.410 --> 00:40:35.100
+Jonathan Herke: yeah they I mean quantum is definitely like the fringe of possible and impossible I think they know if they can never figure out quantum to work at scale.
+
+275
+00:40:36.000 --> 00:40:50.160
+Jonathan Herke: That would be a pretty interesting, one that would have ripple effects across many industries, you know what if you had quantum processors for cryptocurrency or quantum whatever processors for math equations and everybody can have those at home.
+
+276
+00:40:51.690 --> 00:40:57.990
+Jonathan Herke: Oh, one of the I guess it's not really a technology but it's an interesting it's an interesting thought exercises.
+
+277
+00:40:59.010 --> 00:41:08.970
+Jonathan Herke: there's a I don't know the exact number, but like billions at least a billion, I think, or more of people don't have Internet right now right there's just not the infrastructure, the network.
+
+278
+00:41:09.630 --> 00:41:16.800
+Jonathan Herke: spacex is coming out my parents have spacex at their house, so they just meld know are shooting up to sound like a 200 megs.
+
+279
+00:41:17.790 --> 00:41:26.730
+Jonathan Herke: Now if everyone has Internet, what are the, what are the, what are the conversations of that how am I market shifts happen that might be.
+
+280
+00:41:27.240 --> 00:41:36.630
+Jonathan Herke: That might be an interesting exercise but yeah graph that everyone's looking for different ways to do analytics in the grass face graph neural nets are getting pretty popular dnn.
+
+281
+00:41:38.880 --> 00:41:51.270
+Jonathan Herke: there's all there's every day there's a new gbt three new you know new language models and stuff like that, so one shot learning language models, I think there's always going to be a need for analytics.
+
+282
+00:41:52.560 --> 00:42:03.210
+Jonathan Herke: there's not enough data graph data scientist that's a short ever there's a lot of Python developers, but you know people that know know how to do these.
+
+283
+00:42:04.230 --> 00:42:07.770
+Jonathan Herke: Different data structures um yeah I would say.
+
+284
+00:42:09.060 --> 00:42:09.750
+Jonathan Herke: I would say.
+
+285
+00:42:13.110 --> 00:42:14.190
+Jonathan Herke: Another one would be.
+
+286
+00:42:16.260 --> 00:42:21.600
+Jonathan Herke: Digital twin is sort of a weird one in the sense that they're trying to.
+
+287
+00:42:22.860 --> 00:42:39.000
+Jonathan Herke: Do predictions about different things based off of other things, and so, if you look up digital trend twin you might find a lot of different things, but digital twin in the sense of users user applications, so that could be into recommendation engines.
+
+288
+00:42:40.200 --> 00:42:47.370
+Jonathan Herke: Digital twins in the sense of like medical means, how can you how can you find somebody that's super similar to yourself and then.
+
+289
+00:42:48.390 --> 00:42:53.700
+Jonathan Herke: You can make that better drug recommendations or you can run different analytics.
+
+290
+00:42:55.200 --> 00:42:59.070
+Jonathan Herke: But yeah blockchain technology is still have a long ways to go they're pretty pretty new.
+
+291
+00:43:00.810 --> 00:43:01.290
+Jonathan Herke: Then.
+
+292
+00:43:02.460 --> 00:43:06.930
+Jonathan Herke: there's a there's there's a lot of different ones, I would just I would, if I was you i'd follow gartner.
+
+293
+00:43:07.920 --> 00:43:24.240
+Jonathan Herke: The emerging trends and that changes every so that's when we were working at this emerging tech working on quantum Ai de de de de de we're following the gartner emerging trends so look up that it's called the hype cycle and i'll show you all the new things on the cusp of possibilities.
+
+294
+00:43:25.710 --> 00:43:28.200
+Aditya S Kulkarni: Oh Okay, I never heard of that.
+
+295
+00:43:29.370 --> 00:43:30.360
+Aditya S Kulkarni: yeah right chicken up.
+
+296
+00:43:31.680 --> 00:43:32.400
+Aditya S Kulkarni: like this.
+
+297
+00:43:34.110 --> 00:43:37.170
+Jonathan Herke: yeah gartner and look at here i'll just share it.
+
+298
+00:43:39.930 --> 00:43:42.210
+Jonathan Herke: So this is this where I would go to like.
+
+299
+00:43:55.020 --> 00:43:56.100
+Jonathan Herke: So it looks like.
+
+300
+00:43:57.330 --> 00:43:58.110
+Jonathan Herke: This thing.
+
+301
+00:44:01.050 --> 00:44:02.880
+Jonathan Herke: So these are the emerging technologies.
+
+302
+00:44:04.080 --> 00:44:09.870
+Jonathan Herke: Oh, and F tease Ai driven augmentation quantum machine learning.
+
+303
+00:44:12.960 --> 00:44:25.170
+Jonathan Herke: So we can go back and see what the previous ones where it's a little hard to see carbon based trends transitions bring your own identity as citizen point digital twin here's digital twin they're talking about that.
+
+304
+00:44:27.510 --> 00:44:30.810
+Jonathan Herke: yeah so you can you can start to see data fabrics.
+
+305
+00:44:33.870 --> 00:44:37.560
+Jonathan Herke: The gardener has a lot of great information 2009 they're talking about five g still.
+
+306
+00:44:42.420 --> 00:44:47.610
+Jonathan Herke: But this is a great place to to look at the cusp of nascar 3D printing.
+
+307
+00:44:48.840 --> 00:44:53.610
+Jonathan Herke: flying a time as cars say that's more than 10 years from now.
+
+308
+00:44:54.960 --> 00:45:03.480
+Jonathan Herke: Low earth orbit satellites systems there, we do not the spacex so it was that one five years, I think that that that emerged a little bit.
+
+309
+00:45:04.530 --> 00:45:05.040
+Jonathan Herke: earlier.
+
+310
+00:45:06.600 --> 00:45:13.440
+Jonathan Herke: So yeah that's what I would look at and follow those reports partners really good at submitting those on what's what's new.
+
+311
+00:45:16.020 --> 00:45:17.580
+Are you still working on that jarvis thing.
+
+312
+00:45:19.110 --> 00:45:32.040
+Jonathan Herke: I haven't I haven't for a while, actually, it was talking to a university that they wanted to incorporate graph and virtual reality like to walk through like the Meta.
+
+313
+00:45:33.180 --> 00:45:33.690
+Jonathan Herke: and
+
+314
+00:45:34.950 --> 00:45:45.270
+Jonathan Herke: And I was suggested doing the jarvis project with them, but I haven't had enough resources to actually build my own jarvis type project, because the ultimate goal would be like, just as you were talking to jarvis.
+
+315
+00:45:46.020 --> 00:45:54.720
+Jonathan Herke: You could use alexa and then maybe some like virtual reality on mentation who like walk through information and stuff.
+
+316
+00:45:55.380 --> 00:46:04.050
+Jonathan Herke: Just never had the chance to to to focus on it so but, hopefully, hopefully, I can propose this idea to this university I think it's an Ohio.
+
+317
+00:46:04.890 --> 00:46:17.220
+Jonathan Herke: That they'll have a bunch of students that could work on building something along that lines because and will just help guide them mentor them along MySpace because that's what she wants to do something vr with graph so that was pretty cool.
+
+318
+00:46:22.350 --> 00:46:24.120
+Jonathan Herke: Any other any other questions.
+
+319
+00:46:28.830 --> 00:46:30.000
+guys any questions audience.
+
+320
+00:46:31.980 --> 00:46:33.030
+Aditya S Kulkarni: No, I think we're good.
+
+321
+00:46:34.320 --> 00:46:40.350
+Aditya S Kulkarni: yeah thanks for thanks for coming here and spending the time just talk about those then provide your your thoughts and insights on things.
+
+322
+00:46:40.950 --> 00:46:45.930
+Jonathan Herke: yeah yeah and feel free to Ping me on discord if you want like hey.
+
+323
+00:46:47.130 --> 00:46:50.760
+Jonathan Herke: i'm thinking about doing this, could you have do you have any advice, how to approach that.
+
+324
+00:46:52.020 --> 00:47:01.830
+Jonathan Herke: You know, or if you have a dream job and you want us to somebody else to drift off of how you can successfully get yourself in there, let me know more than willing to to help coach or mentor.
+
+325
+00:47:02.580 --> 00:47:10.710
+Sarthak Agrawal: Oh, I actually had a question, so I was thinking about doing like a graph database it's like trying to model like something about students like sleep better or something.
+
+326
+00:47:11.130 --> 00:47:22.050
+Sarthak Agrawal: But I wasn't really sure how to go about that, but I was just thinking like for like I don't know how I would like collect data or anything like that, so I wanted to ask you, like how, how do you like get data for like these kind of projects.
+
+327
+00:47:23.100 --> 00:47:34.920
+Jonathan Herke: yeah sometimes on kaggle we've done fitbit data with tiger graph at my previous company adopt them and basically we just asked everyone to share their fitbit data, just like you would share your linkedin data.
+
+328
+00:47:36.810 --> 00:47:40.530
+Jonathan Herke: And so we did a data dump of their their data.
+
+329
+00:47:42.330 --> 00:47:44.910
+Jonathan Herke: That my coworker is actually the primary.
+
+330
+00:47:45.990 --> 00:47:58.680
+Jonathan Herke: The my coworkers the primary driver of that that initiative and that product, so if that's something that really interests you i'll tell them to to to chat with you, and he can tell you all about how to structure it up for fitbit data.
+
+331
+00:48:03.120 --> 00:48:03.450
+Jonathan Herke: yeah.
+
+332
+00:48:04.830 --> 00:48:09.960
+Jonathan Herke: I don't think there's many blogs on that either So if you create some can share it with everybody.
+
+333
+00:48:12.240 --> 00:48:26.610
+Jonathan Herke: right for like fitbit data yeah I haven't I haven't seen I he created an iot you create an iot graph on if you go to YouTube and then go to tie graph and then look up iot I think there's some iot based stuff he created.
+
+334
+00:48:28.380 --> 00:48:37.980
+Jonathan Herke: And, but it was it was more arm, you know, like whether or is more like temperature and humidity sensing but I mean the same concept, you know streaming data.
+
+335
+00:48:39.210 --> 00:48:39.360
+Jonathan Herke: yeah.
+
+336
+00:48:43.770 --> 00:48:45.480
+yeah I think all.
+
+337
+00:48:46.860 --> 00:48:47.640
+Aditya S Kulkarni: Right, thank you.
+
+338
+00:48:48.630 --> 00:48:50.580
+Jonathan Herke: All right, it's good to see you guys.
+
