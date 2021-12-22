@@ -2,7 +2,7 @@ from parser import get_file
 import spacy
 import neuralcoref
 
-nlp = spacy.load('en')
+nlp = spacy.load('en_core_web_sm')
 neuralcoref.add_to_pipe(nlp)
 
 
